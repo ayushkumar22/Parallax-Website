@@ -1,1 +1,1 @@
-Parallax effect webpage.
+Parallax effect webpage using HTML & CSS.
